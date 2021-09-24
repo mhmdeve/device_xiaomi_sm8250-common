@@ -1,2 +1,8 @@
 # Dex2oat
 dalvik.vm.dex2oat64.enabled=true
+
+# Padding for Gboard
+ro.com.google.ime.kb_pad_port_l=7
+ro.com.google.ime.kb_pad_port_r=7
+ro.com.google.ime.kb_pad_land_l=14
+ro.com.google.ime.kb_pad_land_r=14
